@@ -35,7 +35,7 @@
 Contributions are welcome! Feel free to submit issues or pull requests.  
 
 ## 📞 Contact  
-  🔹 GitHub Issues: [Issue Tracker Link]  
+  🔹 GitHub Issues: msg me on dc tornado_e11
 
 **🔥 Flip smarter, earn faster! 🔥**  
 
